@@ -1,0 +1,7 @@
+{
+  "name": "goroutine-vs-javascript-async",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zheeeng <hi@zheeeng.me>",
+  "license": "MIT"
+}
