@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Zheeeng <hi@zheeeng.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux-saga": "^0.16.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  }
 }
